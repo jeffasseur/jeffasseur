@@ -1,4 +1,4 @@
-![Banner JEF .FASSEUR](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Banner JEF .FASSEUR](https://assets.digitalocean.com/articles/alligator/boo.svg)
 
 # Hi there 👋 I am Jef Fasseur
 
